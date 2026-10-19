@@ -11,10 +11,10 @@ history forever. The binary lives here instead, and `pegah-ltd` commits only
 
 | | |
 |---|---|
-| versionName | 1.1.8 |
-| versionCode | 12 |
-| size | 91,011,950 bytes |
-| sha256 | `cd5bd6a9149882a39e06fa2a0812cb5802891eba88e27e5d47ab51504059224f` |
+| versionName | 1.1.9 |
+| versionCode | 13 |
+| size | 91,011,954 bytes |
+| sha256 | `12d339c98658a095de84f0212e726cdac00a7e5a1be53e7ef6fddfc5f3e306da` |
 
 Download URL used by `latest.json` and the in-app updater:
 
